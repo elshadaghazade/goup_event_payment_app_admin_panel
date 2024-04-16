@@ -1,4 +1,4 @@
-# Django Admin Panel Project
+# GOUP EVENT PAYMENT APP ADMIN PANEL (DJANGO)
 
 This project utilizes Django 5.0.4 to automatically generate an admin panel based on an existing database schema. This allows for robust, web-based management of event data directly via Django's dynamic admin interface.
 
